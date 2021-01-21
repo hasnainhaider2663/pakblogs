@@ -1,0 +1,31 @@
+.more-head {
+  margin-top: 30px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+.lorem-desc {
+  width: 180px;
+  font-size: 15px;
+  font-family: 'roboto', sans-serif;
+  text-align: left;
+}
+
+
+.blog2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+.more-pics {
+  width: 70px;
+  position: absolute;
+  top: 0;
+}
+
+.more-text {
+  padding-left: 80px;
+}
+

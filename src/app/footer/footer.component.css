@@ -1,0 +1,27 @@
+footer{
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.footer-head{
+  color: white;
+  text-align: left;
+}
+
+.footer-desc{
+  font-size: 14px;
+  color:  #b1b1b1;
+  text-align: left;
+}
+
+hr.new4 {
+  border: 1px solid white;
+}
+.logo{
+  width: 150px;
+  color: white;
+}
+
+a{
+  color: white;
+}

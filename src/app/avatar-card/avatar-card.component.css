@@ -1,0 +1,47 @@
+.avatar-pics {
+  position: absolute;
+}
+
+.text-area {
+  margin-left:  250px;
+}
+
+.avatar-head {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.avatar-desc {
+  font-family: 'roboto', sans-serif;
+  color: #b6b6b6;
+
+}
+
+.avatar-side{
+  margin: 20px 180px;
+}
+.avatar-pics {
+  width: 80px;
+  position: absolute;
+  top: 0;
+}
+
+.avatar-text {
+  padding-left: 100px;
+  padding-top: 10px;
+}
+
+.avatar-head {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.avatar-cap {
+  padding-top: 2px;
+  color: #b1b1b1;
+  font-size: 14px;
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
+}

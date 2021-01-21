@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@500&family=Roboto&family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.content-container{
+  margin: 50px 200px 20px 200px;
+}
+.para{
+  font-family: 'Source Serif Pro', serif;
+  font-size: 20px;
+}
+h2{
+  font-family: 'Rubik', sans-serif;
+}
+
+.tags {
+   display:flex;
+   list-style:none;
+ }
+.tags-name{
+  background-color: rgba(242, 242, 242, 1);
+  margin-left: 20px;
+}
+
+a{
+  padding: 10px;
+  color: grey;
+}
+
+.insight-desc {
+  font-size: 14px;
+  font-family: 'roboto', sans-serif;
+  text-align: left;
+
+}
+
+.blog-posts {
+  margin-top: 40px;
+}
+
+.blog2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 20px;
+}
+
+.blog-pics {
+  position: absolute;
+  top: 0;
+}
+
+.blog-text {
+  padding-left: 140px;
+}
+
+.blog2-head {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.blog2-cap {
+  padding-top: 2px;
+  color: #b1b1b1;
+  font-size: 14px;
+  font-family: 'roboto', sans-serif;
+  font-style: italic;
+}
+
+.card-pic{
+  width: 225px;
+  height: 185px;
+}
+
