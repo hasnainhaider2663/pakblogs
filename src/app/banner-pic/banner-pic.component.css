@@ -5,3 +5,31 @@
 text-align: center;
   color: grey;
 }
+@media screen and (max-width: 991px) {
+  .banner-pic {
+    margin: 0 !important;
+    margin-top: 40px !important;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1199px) {
+  .banner-pic {
+    width: 500px!important;
+  }
+}
+
+@media screen and (max-width: 499px) {
+  .banner-pic {
+    width: 450px!important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .banner-pic {
+    width: 650px!important;
+  }
+}
+@media screen and (max-width: 767px) and (min-width: 500px) {
+  .banner-pic{
+    width: 480px!important;
+  }
+}

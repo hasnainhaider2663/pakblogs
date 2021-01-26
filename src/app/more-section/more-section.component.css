@@ -1,3 +1,18 @@
+@media screen and (max-width: 991px) {
+  .third-side {
+   padding-left: 10px !important;
+  }
+  .fourth-side {
+    padding-left: 10px !important;
+  }
+}
+
+/*@media screen and (max-width: 767px) {*/
+/*  .card-pic{*/
+/*    width: 100% !important;*/
+/*  }*/
+/*}*/
+
 .more-head {
   margin-top: 30px;
   font-family: Arial, sans-serif;
@@ -28,4 +43,5 @@
 .more-text {
   padding-left: 80px;
 }
+
 

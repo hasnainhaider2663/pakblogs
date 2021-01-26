@@ -12,6 +12,7 @@ import { BannerPicComponent } from './banner-pic/banner-pic.component';
 import { ContentComponent } from './content/content.component';
 import { MoreSectionComponent } from './more-section/more-section.component';
 import { FooterComponent } from './footer/footer.component';
+import { BlogPageComponent } from './blog-page/blog-page.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { FooterComponent } from './footer/footer.component';
     BannerPicComponent,
     ContentComponent,
     MoreSectionComponent,
-    FooterComponent
+    FooterComponent,
+    BlogPageComponent
   ],
   imports: [
     BrowserModule,

@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {NavbarComponent} from './navbar/navbar.component';
+import {BlogPageComponent} from './blog-page/blog-page.component';
 
-const routes: Routes = [{path: 'pak-blogs' , component: NavbarComponent }];
+const routes: Routes = [{path: 'pak-blogs' , component: BlogPageComponent }];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
